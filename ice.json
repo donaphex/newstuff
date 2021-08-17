@@ -26,11 +26,11 @@
 	"APPLOVIN_BANNER_ID":"",
 	"APPLOVIN_INTERSTITIAL_ID":"",
 	
-	"whichAds":1,
+	"whichAds":3,
 
-	"isLastPageShow":true,
+	"isLastPageShow":false,
 	
-	"is_pop_up_enable":true,
+	"is_pop_up_enable":false,
 	"pop_up_title":"Instagram",
 	"pop_up_image_url":"https://i.pinimg.com/originals/66/41/c9/6641c94e15a0be37af49a4250386c03e.png",
 	"pop_up_button_text":"Install Now",
