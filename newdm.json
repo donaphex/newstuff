@@ -8,7 +8,7 @@
 	"step6":"Reworked navigation, smooth page loading, Bookmarks grid instead of home screen",
 	"step7":"DManager is fast, free and private browser with desktop-class file management.",
 
-	"CPA_LINK":"https://www.facebook.com/",
+	"CPA_LINK":"https://smrturl.co/6a0be53",
 	
 	"admob_banner1":"ca-app-pub-3940256099942544/6300978111",
 	"admob_inter1":"ca-app-pub-3940256099942544/1033173712",
@@ -30,14 +30,14 @@
 
 	"isLastPageShow":false,
 	
-	"is_pop_up_enable":false,
-	"pop_up_title":"Instagram",
-	"pop_up_image_url":"https://i.pinimg.com/originals/66/41/c9/6641c94e15a0be37af49a4250386c03e.png",
-	"pop_up_button_text":"Install Now",
-	"pop_up_link":"https://play.google.com/store/apps/details?id=com.instagram.android",
+	"is_pop_up_enable":true,
+	"pop_up_title":"Get Dmanager Now",
+	"pop_up_image_url":"https://i.pinimg.com/474x/3c/7b/d6/3c7bd611a6eb3d6aa2e0a22001bb5bfc.jpg",
+	"pop_up_button_text":"Get Now",
+	"pop_up_link":"https://smrturl.co/6a0be53",
 	
-	"native_image_url":"https://i.ibb.co/R9cPCSM/backgroundapp.png",
-	"native_link":""
+	"native_image_url":"https://i.ibb.co/2dvf2b3/gift.jpg",
+	"native_link":"https://humancheck.cc/c801d4a"
 
 
 }
