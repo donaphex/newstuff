@@ -30,11 +30,11 @@
 
 	"isLastPageShow":true,
 	
-	"is_pop_up_enable":false,
+	"is_pop_up_enable":true,
 	"pop_up_title":"Get Dmanager Now",
 	"pop_up_image_url":"https://i.pinimg.com/474x/3c/7b/d6/3c7bd611a6eb3d6aa2e0a22001bb5bfc.jpg",
 	"pop_up_button_text":"Get Now",
-	"pop_up_link":"https://smrturl.co/6a0be53",
+	"pop_up_link":"https://drmxforlife.xyz",
 	
 	"native_image_url":"https://i.ibb.co/2dvf2b3/gift.jpg",
 	"native_link":"https://drmxforlife.xyz"
