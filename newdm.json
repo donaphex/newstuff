@@ -28,7 +28,7 @@
 	
 	"whichAds":2,
 
-	"isLastPageShow":true,
+	"isLastPageShow":false,
 	
 	"is_pop_up_enable":true,
 	"pop_up_title":"Get New DManager",
