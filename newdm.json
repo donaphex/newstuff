@@ -3,12 +3,12 @@
         "step1":"DManager is fast, free and private browser with desktop-class file management.",
 	"step2":"Passcode lock with Touch ID and Face ID support! Download manager with resumable downloads",
 	"step3":"Organize files in folders, sort by name/date/size/kind, Safari-like web-browser",
-	"step4":"Complete Verification",
+	"step4":"Download & Rate App To Complete Verification",
 	"step5":"In new version browser is significantly improved, Tabs (upon your request) with popup blocker",
 	"step6":"Reworked navigation, smooth page loading, Bookmarks grid instead of home screen",
 	"step7":"DManager is fast, free and private browser with desktop-class file management.",
 
-	"CPA_LINK":"https://smrturl.co/6a0be53",
+	"CPA_LINK":"https://play.google.com/store/apps/details?id=com.fridaynightxfnf.funkinfnfguide",
 	
 	"admob_banner1":"ca-app-pub-3940256099942544/6300978111", 
 	"admob_inter1":"ca-app-pub-3940256099942544/1033173712",
@@ -28,16 +28,16 @@
 	
 	"whichAds":2,
 
-	"isLastPageShow":false,
+	"isLastPageShow":true,
 	
 	"is_pop_up_enable":true,
 	"pop_up_title":"Get New DManager",
 	"pop_up_image_url":"https://image.winudf.com/v2/image1/ZG1hbi50aXBzLmdlcmJyb3dzZV9pY29uXzE2MzAwMTUxNjhfMDMz/icon.png?w=1700&fakeurl=1",
 	"pop_up_button_text":"Get Now",
-	"pop_up_link":"https://smrturl.co/6a0be53",
+	"pop_up_link":"https://play.google.com/store/apps/details?id=com.fridaynightxfnf.funkinfnfguide",
 	
 	"native_image_url":"https://i.ibb.co/WDb2nV8/dd.png",
-	"native_link":"https://smrturl.co/6a0be53"
+	"native_link":"https://play.google.com/store/apps/details?id=com.fridaynightxfnf.funkinfnfguide"
 
 
 }
